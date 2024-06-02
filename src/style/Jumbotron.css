@@ -1,0 +1,15 @@
+.custom-jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+  }
+  
+  .custom-jumbotron .row {
+    display: flex;
+    align-items: center;
+  }
+  
+  .custom-jumbotron .img-fluid {
+    max-width: 60%;
+    height: auto;
+  }
+  
